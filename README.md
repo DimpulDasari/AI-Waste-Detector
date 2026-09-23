@@ -1,9 +1,9 @@
 # AI-Based Real-Time Smart Waste Detection and Segregation System
 
 ## Team Members
-- D
-- K
-- H
+- Dimpul
+- Khushi
+- Hetsi
 
 ## Project Description
 An AI-based real-time system that uses a camera to detect and classify different types of waste and provide appropriate disposal or recycling suggestions.
